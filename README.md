@@ -1,5 +1,7 @@
 # swww script
 A python script for swww
+If you have any issues or want to improve the code, feel free to make a issue <3
+I might add animation support in the future
 
 # Usage
 1. Clone the script with git clone https://github.com/JumpIn-Git/swww-script, anywhere you want
@@ -8,4 +10,4 @@ A python script for swww
 # Startup
 It is reccomened to add the script to startup, for hyprland, add exec-once = /path/to/swww.py
 
-If you have any issues or want to improve the code, feel free to make a issue <3
+
